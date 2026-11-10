@@ -57,3 +57,11 @@ Los resultados principales, sus interpretaciones y las limitaciones del estudio 
 ## Alcance del trabajo
 
 El proyecto se desarrolló utilizando datos sintéticos con fines exclusivamente didácticos. Por lo tanto, los resultados deben interpretarse como parte de un ejercicio de análisis exploratorio y no como evidencia experimental aplicable directamente a procesos industriales reales.
+
+
+## Acceso directo a los resultados
+
+- [Notebook de Google Colab](notebooks/TP_DataSetFermentacion.ipynb)
+- [Dashboard de Power BI](dashboard/Analisis_Fermentacion_PBI.pbix)
+- [Conclusiones finales](conclusiones/Conclusiones_Analisis_Fermentacion_Etanolica.pdf)
+- [Reporte ejecutivo](conclusiones/Reporte_Analisis_Fermentacion.pdf)
